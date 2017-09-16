@@ -10,6 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            // this is my first program
             int x = 0, y = 0;
             double result = 0;
 
